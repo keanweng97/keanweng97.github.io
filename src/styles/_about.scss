@@ -25,6 +25,13 @@
     flex-wrap: nowrap;
     font-size: 75px;
   }
+  img {
+    height: 75px;
+    max-width: 150px;
+  }
+  img.square {
+    width: 75px;
+  }
 }
 
 .user-details {
