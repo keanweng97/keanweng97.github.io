@@ -35,6 +35,29 @@
 }
 
 .user-details {
-  text-align: center;
   margin: 5px auto;
+  text-align: center;
+  .details {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    .photo {
+      width: 60%;
+      margin-right: 5%;
+      img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+      }
+    }
+    @media only screen and (min-width: $cut) {
+      flex-wrap: nowrap;
+      text-align: left;
+      .photo {
+        min-width: 200px;
+      }
+    }
+  }
 }
