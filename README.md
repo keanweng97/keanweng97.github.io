@@ -69,3 +69,9 @@ This theme is free and open source software, distributed under the The MIT Licen
 This theme was partially designed with the inspiration from these fine folks
 - [Willian Justen](https://github.com/willianjusten/will-jekyll-template)
 - [Vincent Garreau](https://github.com/VincentGarreau/particles.js/)
+
+Additional customization added:
+- [Typing Carousel](https://gist.github.com/gschier/6903476) by
+[Gregory Schier](https://gist.github.com/gschier)
+- [CSS corner ribbon](https://codepen.io/nxworld/pen/oLdoWb) by
+[Naoya](https://www.nxworld.net/about/)
